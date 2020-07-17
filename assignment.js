@@ -94,7 +94,7 @@ for (let i = 0; i < myFriends.length; i++) {
     return tinyName;
 }
 
-var myFriends = ['Anika', 'Tamanna', 'Nowshin ', "Sumaiya", 'Onika', "Fariha","Nawrin"];
+var myFriends = ['Ablu', 'Bablue', 'Noabu ', "Sabla", 'babla', "Fartablaiha","Abul Karim"];
 tinyResult = tinyFriend(myFriends);
 console.log('Smallest Name is =', tinyResult);
 
